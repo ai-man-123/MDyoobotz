@@ -14,11 +14,11 @@ global.APIKeys = {
 // setting 
 global.autoread = true // auto read pesan / message
 global.autorecording = true //status auto merekam ( auto record )
-global.autoketik = false //status auto mengetik (auto typing)
+global.autoketik = true //status auto mengetik (auto typing)
 global.available = false //status online (online)
 
 // Other
-global.botname = "KATSUBOTZ
+global.botname = "KATSUBOTZོ"
 global.ownername= "KATSUBOTZ OFC ×፝֟͜×"
 global.myweb ="https://api-alphabot.herokuapp.com/"
 global.youtube = "https://youtube.com/c/ZeeoneOfc"
@@ -28,9 +28,9 @@ global.ownernomerr = "+6285290270235"
 global.thumbnail = "./image/lol.jpg"
 global.donasi = "./image/donasi.jpg"
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
-global.owner = ["+6285290270235","+6285290270235","+6285290270235"] //ganti agar fitur owner bisa di gunakan
-global.packname = '© KATSUBOTZ' //sticker wm
-global.author = 'BY KATSUBOTZ' //sticker wm
+global.owner = ["6285290270235","6285290270235","6285290270235"] //ganti agar fitur owner bisa di gunakan
+global.packname = '© KATSUBOTZོ' //sticker wm
+global.author = 'Di Buat Oleh KATSU OFC' //sticker wm
 global.sessionName = 'session'
 global.flaming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=fluffy-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
