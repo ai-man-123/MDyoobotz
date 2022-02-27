@@ -20,9 +20,9 @@ global.available = true //status online (online)
 // Other
 global.botname = "AZBOTZོ"
 global.ownername= "Aiman OFC ×፝֟͜×"
-global.myweb ="https://api-alphabot.herokuapp.com/"
+global.myweb ="https://s.id/yoaiman"
 global.youtube = "https://youtube.com/c/ZeeoneOfc"
-global.github = "https://zeeoneofc.github.io/"
+global.github = "https://github.com/ai-man-123"
 global.ownernomer = "60102810046"
 global.ownernomerr = "+60102810046"
 global.thumbnail = "./image/lol.jpg"
